@@ -11,7 +11,7 @@ from PyQt5 import QtWidgets
 import sys
 import page
 import string
-import rt
+import rw
 
 
 #专业 学院 邮箱 获奖
