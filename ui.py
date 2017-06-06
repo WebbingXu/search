@@ -13,6 +13,7 @@ import page
 import string
 import rb
 
+
 #专业 学院 邮箱 获奖
 
 class MainWindow(QtWidgets.QWidget):
